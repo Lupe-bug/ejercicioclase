@@ -1,0 +1,18 @@
+//crear una clase
+class HashTable () {
+constructor(size){
+this.data =new Array(size);
+
+}
+
+// funcion que va a generar el ID
+hasmethod(key){
+let
+}
+
+get(Key){
+
+}
+
+}
+
